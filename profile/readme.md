@@ -1,0 +1,3 @@
+The tRopIcal DEep-sea Neutrino Telescope, TRIDENT for short, is an envisioned neutrino observatory at South China Sea, which aims to discover multiple high-energy astrophysical neutrino sources and provide a significant boost to the measurement of cosmic neutrino events of all flavors. You can visit our website [here](https://trident.sjtu.edu.cn/en)
+
+The repositories under this GitHub organization holds the public codes developed and used in TRIDENT.
